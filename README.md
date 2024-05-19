@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Timothy-J-Warner
+- 👋 Hi, I’m Timothy Warner
 - 👀 I’m interested in developing software to assist with research
 - 🌱 I’m currently learning python including packages numpy, pandas and matplotlib
 - 💞️ I’m looking to collaborate on research sofrware
